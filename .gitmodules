@@ -1,0 +1,9 @@
+[submodule "1_OLX-car-cover-scraper"]
+	path = 1_OLX-car-cover-scraper
+	url = https://github.com/sbmraj03/OLX-car-cover-scraper.git
+[submodule "2_Rfam-Database-Analysis"]
+	path = 2_Rfam-Database-Analysis
+	url = https://github.com/sbmraj03/Rfam-Database-Analysis.git
+[submodule "3_AMFI_NAV_Extractor"]
+	path = 3_AMFI_NAV_Extractor
+	url = https://github.com/sbmraj03/AMFI_NAV_Extractor.git
